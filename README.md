@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**dopecodez/dopecodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to develop code and myself. The power of open source is the power of people!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my latest crazy ideas :octocat:
+- 🌱 I’m currently learning React, .NET Core, and Go
+- 👯 I’m looking to collaborate on any interesting ideas to open source :bulb:
+- 💬 Ask me about how to start contributing to open source, and anything related to JavaScript, Databases or Python.
+- 📫 How to reach me: [@govinds](mailto:gvind4@gmail.com) :mailbox:
+- ⚡ Fun fact: If i am not coding, I'm trekking or reading :earth_asia: :books:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my Github stats here : 
+
+[![Govinds's github stats](https://github-readme-stats.vercel.app/api?username=dopecodez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
