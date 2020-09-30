@@ -4,7 +4,7 @@ I like to develop code and myself. The power of open source is the power of peop
 
 - 🔭 I’m currently working on my latest crazy ideas :octocat:
 - 🌱 I’m currently learning React, .NET Core, and Go
-- 👯 I’m looking to collaborate on any interesting ideas to open source :bulb:
+- 👯 I’m looking to collaborate on [wikipedia](https://github.com/dopecodez/Wikipedia.git) :bulb:
 - 💬 Ask me about how to start contributing to open source, and anything related to JavaScript, Databases or Python.
 - 📫 How to reach me: [@govinds](mailto:gvind4@gmail.com) :mailbox:
 - ⚡ Fun fact: If i am not coding, I'm trekking or reading :earth_asia: :books:
