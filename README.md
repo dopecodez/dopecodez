@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I like to develop code and myself. The power of open source is the power of people!
+I like to develop code and myself. I develop and help maintain packages i like and find interesting. The power of open source is the power of people!
 
 - 🔭 I’m currently working on my latest crazy ideas :octocat:
 - 🌱 I’m currently learning React, .NET Core, and Go
