@@ -11,4 +11,4 @@ I like to develop code and myself. I develop and help maintain packages i like a
 
 Check out my Github stats here : 
 
-[![Govinds's github stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopecodez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Govinds's github stats](https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopecodez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
